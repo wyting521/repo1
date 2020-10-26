@@ -13,7 +13,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a0cb178-4547-4f8c-a6db-d2fdaa661d2a" name="Default" comment="" />
+    <list default="true" id="3a0cb178-4547-4f8c-a6db-d2fdaa661d2a" name="Default" comment="提交代码">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,10 +68,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.35517243" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -191,8 +193,23 @@
       <workItem from="1603706111542" duration="345000" />
       <workItem from="1603718630800" duration="879000" />
       <workItem from="1603719519069" duration="809000" />
-      <workItem from="1603720345017" duration="114000" />
+      <workItem from="1603720345017" duration="906000" />
     </task>
+    <task id="LOCAL-00001" summary="提交代码">
+      <created>1603720797937</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603720797937</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交代码">
+      <created>1603720877382</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603720877382</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,7 +228,8 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="提交代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交代码" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1603720457907">
@@ -222,6 +240,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="386" y="90" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1603720179215" />
+    <state x="355" y="0" key="CommitChangelistDialog2" timestamp="1603720875828">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="355" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1603720875828" />
     <state x="718" y="108" key="FileChooserDialogImpl" timestamp="1603720072726">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -230,10 +252,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="395" y="113" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1603719456426" />
-    <state x="270" y="56" key="SettingsEditor" timestamp="1603719961053">
+    <state x="270" y="0" key="SettingsEditor" timestamp="1603720525755">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603719961053" />
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603720525755" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603721198689">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603721198689" />
     <state x="573" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603720061105">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
