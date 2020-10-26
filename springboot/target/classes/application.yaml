@@ -1,0 +1,11 @@
+spring:
+  mvc:
+    favicon:
+      enabled: false
+  thymeleaf:
+    cache: false
+  messages:
+    basename: i18n.login
+server:
+  servlet:
+    context-path: /springboot
