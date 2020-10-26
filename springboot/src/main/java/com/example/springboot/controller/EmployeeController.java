@@ -20,7 +20,7 @@ public class EmployeeController {
     public String list(Model model){
         Collection<Employee> employees = employeeDao.getAll();
         model.addAttribute("emps",employees);
-        String str1 = "我在dev上添加了内容哈哈";
+        String str2 = "我在dev上添加了内容哈哈";
         return "emp/list";
     }
 }
